@@ -4,16 +4,14 @@
 
 The main goal of this exercise is to learn how to use GitHub and Git. We will verify that git, visual studio code and python works properly on your environment. You will also learn how to use markdown, a lightweight markup language commonly used in i.e GitHub, GitLab, but also for docs.
 
-You need to get a copy of the source lesson material that you can make changes to and submit as your answer. To do this, you need to:
+### Handing in
 
-- [ ]  Fork the source repository so that becomes a copy on YOUR GitHub profile.
-- [ ]  Clone your FORKED repository on GitHub (remote) to your computer (local)
+Submit screenshot[s] and file[s] by a `pull request` in repository [devops22-python](https://github.com/fictive-reality/devops22-python)
+
 - [ ]  Create a branch with name `YOURUSERNAME_lesson_1`
 - [ ]  Create a additional folder in `lesson_1` that is named `YOURUSERNAME`
-- [ ]  Complete the excersises below
 - [ ]  Place screenshot[s] and/or file[s] in the created folder `lesson_1/YOURUSERNAME`
-- [ ]  Commit your changes to the local repository, then push it to your fork (remote)
-- [ ]  Open a pull request from your fork to the [original repository](https://github.com/fictive-reality/devops22-python.git)
+- [ ]  Assign the pull request to the teacher.
 
 ### `Exercise` python
 
@@ -55,4 +53,4 @@ git --version
 #### Hand in instructions markdown
 
 - [ ]  Provide a screenshot of the Visual Studio preview of your markdown
-- [ ]  Provide a screenshot of the GitHub repository showing your HELLO.md
+- [ ]  Provide a screenshot of the GitHub repository showing your README.md
