@@ -18,7 +18,7 @@ print(f'result: {my_number}')
 
 # Alternative recursive approach
 
-def input_retry(user_instruction):
+"""def input_retry(user_instruction):
     try:
         return int(input(user_instruction))
     except ValueError:
@@ -27,4 +27,4 @@ def input_retry(user_instruction):
 
 
 my_number = input_retry("Enter a number:")
-print(f'result: {my_number}')
+print(f'result: {my_number}')"""
